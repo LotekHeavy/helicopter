@@ -1,4 +1,13 @@
-minetest-helicopter
-===================
+Minetest 0.4.7+ mod: Simple helicopter
+=======================
+by Pavel_S
 
-Copy from the Simple Helicopter Mode
+License of source code:
+-----------------------
+GPL_v2
+
+License of media (textures and sounds):
+---------------------------------------
+
+helicopter_motor.ogg by  Robinhood76 | License: Attribution Noncommercial
+
